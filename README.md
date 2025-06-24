@@ -1,5 +1,3 @@
-
-//Can image
 # 🥸 Hey! Good to see you!
 
 #### Welcome
