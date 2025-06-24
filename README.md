@@ -53,9 +53,15 @@ Here are some of the technologies and tools I frequently work with:
 Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO_URL)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_PROFESSIONAL_EMAIL_ADDRESS)
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:YOUR_PROFESSIONAL_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   </p>
 
 ---
