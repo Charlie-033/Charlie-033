@@ -3,13 +3,9 @@
 
 # 🥸 Hey! Good to see you!
 
-### About Me
+#### Welcome
 
-I'm a passionate and results-driven **MERN Stack Frontend Developer** with a strong foundation in building dynamic, responsive, and user-friendly web applications. I specialize in crafting engaging user interfaces and seamless user experiences, backed by robust server-side logic.
-
-My expertise lies in translating design concepts into highly interactive web solutions using **React.js** for captivating UIs, supported by **Node.js** and **Express.js** for efficient backend services, and **MongoDB** for flexible data management. I also leverage **Tailwind CSS** to build modern, component-driven designs rapidly.
-
-I am always eager to learn new technologies and contribute to innovative projects that make a real impact.
+I'm Eleus, MERN Stack Frontend Developer specializing in dynamic, responsive web applications. I craft engaging UIs with React.js and Tailwind CSS, integrating with Node.js, Express.js, and MongoDB. Eager to learn new technologies and contribute to impactful projects.
 
 ---
 
