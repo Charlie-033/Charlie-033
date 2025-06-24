@@ -57,3 +57,23 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just say h
   </a>
   </p>
 
+---
+
+---
+
+### 🌟 Featured Projects
+
+Here are a few projects I'm particularly proud of:
+
+* **[Project Name 1](Link to Repo)**: A brief, one-sentence description of what it is and its key feature/purpose.
+    * _Technologies:_ React, Node.js, MongoDB, Tailwind CSS
+    * [Live Demo](Link to Live Demo) (if applicable) | [Detailed README](Link to Repo#readme)
+* **[Project Name 2](Link to Repo)**: Another one-sentence description, highlighting a different skill or impact.
+    * _Technologies:_ React, Express, REST APIs
+    * [Live Demo](Link to Live Demo) (if applicable) | [Detailed README](Link to Repo#readme)
+* **[Project Name 3](Link to Repo)**: Even if it's a smaller project, highlight something unique.
+    * _Technologies:_ React, Firebase
+    * [Live Demo](Link to Live Demo) (if applicable) | [Detailed README](Link to Repo#readme)
+
+---
+
