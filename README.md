@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBkN45x8g/giphy.gif" width="100"/> </div>
 
-#🥸 Hey! Good to see you!
+# 🥸 Hey! Good to see you!
 
 ### About Me
 
