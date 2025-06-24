@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBkN45x8g/giphy.gif" width="100"/> </div>
 
-# Hi there 👋, I'm [Your Name]!
+🥸 Hey! Good to see you!
 
 ### About Me
 
@@ -34,7 +34,7 @@ Here are some of the technologies and tools I frequently work with:
 </p>
 ---
 
-### 🌱 My Current Focus
+### 👉💫 My Current Focus
 
 * **Deepening my knowledge of backend development** by exploring new frameworks and architectural patterns, and venturing into new programming languages to broaden my engineering capabilities.
 * **Actively seeking a dynamic team environment** where I can apply my MERN stack skills, contribute to challenging projects, and continuously learn from collaborative experiences.
