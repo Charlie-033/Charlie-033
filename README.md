@@ -52,7 +52,7 @@ Here are some of the technologies and tools I frequently work with:
 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!
 
-<p align="center">
+<p>
   <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
