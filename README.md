@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBkN45x8g/giphy.gif" width="100"/> </div>
 
+//Can image
 # 🥸 Hey! Good to see you!
 
 #### Welcome
