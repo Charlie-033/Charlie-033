@@ -68,15 +68,16 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just say h
 
 Here are a few projects I'm particularly proud of:
 
-* **[Project Name 1](Link to Repo)**: A brief, one-sentence description of what it is and its key feature/purpose.
-    * _Technologies:_ React, Node.js, MongoDB, Tailwind CSS
-    * [Live Demo](Link to Live Demo) (if applicable) | [Detailed README](Link to Repo#readme)
-* **[Project Name 2](Link to Repo)**: Another one-sentence description, highlighting a different skill or impact.
-    * _Technologies:_ React, Express, REST APIs
-    * [Live Demo](Link to Live Demo) (if applicable) | [Detailed README](Link to Repo#readme)
-* **[Project Name 3](Link to Repo)**: Even if it's a smaller project, highlight something unique.
-    * _Technologies:_ React, Firebase
-    * [Live Demo](Link to Live Demo) (if applicable) | [Detailed README](Link to Repo#readme)
+* **[Hotelux](https://github.com/Charlie-033/HoteLux)**: Hotelux is a full-stack hotel booking platform featuring a modern UI/UX, secure authentication (Email/Google), real-time booking, and a comprehensive review system.
+    * _Technologies:_ React, Express.js, MongoDB, Tailwind CSS
+    * [Live Demo](https://hotel-booking-platform-48b83.web.app/) 
+* **[Plant-Care-Tracker](https://github.com/Charlie-033/Plant-Care-Tracker)**: About
+The Plant Care Tracker is a full-stack, mobile-responsive web app for plant lovers.
+    * _Technologies:_ React, Express, REST APIs, Mongodb
+    * [Live Demo](https://plant-care-tracker-5b57e.web.app/)
+* **[Job-Hunt](https://github.com/Charlie-033/Job-Hunt)**: Job Hunt is a modern, responsive web application that simplifies job searching by aggregating listings from various companies in one place.
+    * _Technologies:_ React, Firebase, JSON APIs
+    * [Live Demo](https://assignment-9-auth-1557b.web.app/)
 
 ---
 
