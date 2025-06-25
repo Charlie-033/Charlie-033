@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/your-username/your-username/main/github-banner.png" alt="GitHub Banner" style="width:100%;" />
+
+
 # 🥸 Hey! Good to see you!
 
 #### Welcome
