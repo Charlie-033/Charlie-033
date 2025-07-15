@@ -52,9 +52,9 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just say h
   <a href="https://www.linkedin.com/in/eleus-ahmed-2aa096340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <a href="https://eleusahmed-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Twitter"/>
-  </a>
+ <a href="https://eleusahmed-dev.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+ </a>
   <a href="mailto:eleusahmed03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
